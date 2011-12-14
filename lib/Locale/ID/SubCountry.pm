@@ -1,5 +1,8 @@
 package Locale::ID::SubCountry;
 use Locale::ID::Province;
+
+# VERSION
+
 our @ISA       = @Locale::ID::Province::ISA;
 our @EXPORT    = @Locale::ID::Province::EXPORT;
 our @EXPORT_OK = @Locale::ID::Province::EXPORT_OK;

@@ -13,6 +13,8 @@ our @EXPORT_OK = qw(
 
 our %SPEC;
 
+# VERSION
+
 # BEGIN IMPORT DATA
 # src: /home/s1/proj/gdint/data/ind_province/data.csv
 # revision: e1a96f6
