@@ -1,5 +1,13 @@
 Revision history for Locale-ID-Province
 
+0.02     2012-03-23
+
+         - Update data from source.
+
+         - Replace Sub::Spec::Gen::ReadTable with
+           Perinci::Sub::Gen::AccessTable.
+
+
 0.01     2011-12-14
 
          First release.

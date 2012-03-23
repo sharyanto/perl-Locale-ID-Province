@@ -144,7 +144,6 @@ no warnings;
 use warnings;
 
 1;
-__END__
 # ABSTRACT: List of provinces in Indonesia
 
 =head1 SYNOPSIS
