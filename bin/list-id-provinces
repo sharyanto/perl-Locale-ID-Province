@@ -7,11 +7,11 @@ use 5.010;
 use strict;
 use warnings;
 
-use Sub::Spec::CmdLine qw(run);
+use Perinci::CmdLine;
 
 # VERSION
 
-run(module => 'Locale::ID::Province', sub=>'list_id_provinces');
+Perinci::CmdLine->new(url => '/Locale/ID/Province/list_id_provinces')->run;
 
 1;
 # ABSTRACT: List Indonesian provinces
