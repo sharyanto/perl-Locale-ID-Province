@@ -23,7 +23,7 @@ our %SPEC;
 # generate-date: Fri Mar 23 14:19:31 2012
 # generated-by: /mnt/home/s1/repos/gudang-data-interim/bin/gen-perl-meta-snippet
 our $meta = {
-  "columns" => {
+  "fields" => {
     bps_code => {
       "index" => 0,
       "schema" => ["int*", { max => 99, min => 11 }],
