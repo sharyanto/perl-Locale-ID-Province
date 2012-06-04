@@ -158,7 +158,7 @@ This module provides API access for list of provinces in Indonesia. Data is
 currently retrieved from the B<gudang-data-interim> repository at
 https://github.com/sharyanto/gudang-data-interim/tree/master/data/ind_province/
 
-This module's functions has L<Sub::Spec> specs.
+This module's functions has L<Rinci> specs.
 
 
 =head1 FUNCTIONS
