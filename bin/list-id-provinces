@@ -1,8 +1,5 @@
 #!/usr/bin/perl
 
-# workaround for dzil
-package list_id_provinces;
-
 use 5.010;
 use strict;
 use warnings;
@@ -15,6 +12,7 @@ Perinci::CmdLine->new(url => '/Locale/ID/Province/list_id_provinces')->run;
 
 1;
 # ABSTRACT: List Indonesian provinces
+# PODNAME: list-id-provinces
 
 =head1 SYNOPSIS
 
