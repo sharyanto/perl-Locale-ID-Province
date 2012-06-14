@@ -1,11 +1,11 @@
 Revision history for Locale-ID-Province
 
-0.03     2012-06-04
+0.03     2012-06-04 (SHARYANTO)
 
          No functional changes. Update to Perinci::Sub::Gen::AccessTable 0.11.
 
 
-0.02     2012-03-23
+0.02     2012-03-23 (SHARYANTO)
 
          - Update data from source.
 
@@ -13,6 +13,6 @@ Revision history for Locale-ID-Province
            Perinci::Sub::Gen::AccessTable.
 
 
-0.01     2011-12-14
+0.01     2011-12-14 (SHARYANTO)
 
          First release.
