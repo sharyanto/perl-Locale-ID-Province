@@ -4,7 +4,7 @@ use 5.010;
 use strict;
 use warnings;
 use Log::Any '$log';
-use Test::More 0.96;
+use Test::More 0.98;
 
 use Locale::ID::Province qw(
                                list_id_provinces
