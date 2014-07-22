@@ -4,11 +4,11 @@ use 5.010;
 use strict;
 use warnings;
 
-use Perinci::CmdLine;
+use Perinci::CmdLine::Any;
 
 # VERSION
 
-Perinci::CmdLine->new(url => '/Locale/ID/Province/list_id_provinces')->run;
+Perinci::CmdLine::Any->new(url => '/Locale/ID/Province/list_id_provinces')->run;
 
 1;
 # ABSTRACT: List Indonesian provinces
