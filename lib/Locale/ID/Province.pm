@@ -157,11 +157,6 @@ https://github.com/sharyanto/gudang-data-interim/tree/master/data/ind_province/
 This module's functions has L<Rinci> specs.
 
 
-=head1 FUNCTIONS
-
-None are exported by default, but they are exportable.
-
-
 =head1 SEE ALSO
 
 L<list-id-provinces>
