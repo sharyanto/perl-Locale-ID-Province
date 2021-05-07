@@ -1,3 +1,9 @@
+0.110   2021-05-07  Released-By: PERLANCAR; Urgency: medium; Backward-Incompatible: yes
+
+	- [incompatible change] Rename functions (*_id_* to *_idn_*) to
+	  avoid ambiguity of 'id'.
+
+
 0.10    2017-07-10  Released-By: PERLANCAR
 
 	- No functional changes.
@@ -63,4 +69,3 @@
 0.01     2011-12-14  Released-By: SHARYANTO
 
          - First release.
-
