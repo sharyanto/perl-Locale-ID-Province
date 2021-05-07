@@ -1,6 +1,9 @@
 package Locale::ID::SubCountry;
 use Locale::ID::Province;
 
+# AUTHORITY
+# DATE
+# DIST
 # VERSION
 
 our @ISA       = @Locale::ID::Province::ISA;
