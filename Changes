@@ -1,3 +1,8 @@
+0.110   2024-08-05  Released-By: PERLANCAR; Urgency: medium
+
+        - Update data (33 -> 38 provinces), add ind_abbrev column.
+
+
 0.10    2017-07-10  Released-By: PERLANCAR
 
 	- No functional changes.
@@ -63,4 +68,3 @@
 0.01     2011-12-14  Released-By: SHARYANTO
 
          - First release.
-

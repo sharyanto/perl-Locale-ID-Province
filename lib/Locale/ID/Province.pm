@@ -400,7 +400,7 @@ our $data = [
 # END FRAGMENT id=data-idn_province
 
 my $res = gen_read_table_func(
-    name => 'list_id_provinces',
+    name => 'list_idn_provinces',
     table_data => $data,
     table_spec => $meta,
     langs => ['en_US', 'id_ID'],
