@@ -2,6 +2,8 @@
 
         - Update data (33 -> 38 provinces), add ind_abbrev column.
 
+        - Remove alias module Locale::ID::SubCountry.
+
 
 0.110   2021-05-07  Released-By: PERLANCAR; Urgency: medium; Backward-Incompatible: yes
 
